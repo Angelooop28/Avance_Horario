@@ -95,7 +95,7 @@ export default {
 }
 
 body {
-    background-color:  #778899;
+    background-color: #778899;
     font-family:'Times New Roman', Times, serif;
 }
 
